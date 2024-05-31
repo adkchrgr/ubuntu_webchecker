@@ -38,7 +38,7 @@ Before you begin, ensure you have the following installed on your Ubuntu system:
 
 3. **Clone the repository**:
     ```bash
-    git clone https://github.com/yourusername/web-scoping-tool.git
+    git clone https://github.com/adkchrgr/web-scoping-tool.git
     cd web-scoping-tool
     ```
 
